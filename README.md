@@ -1,4 +1,8 @@
-### Hi there 👋
+### Greetings! 👋
+
+I'm interested in 3D printing, FOSS, PC gaming, and PC Building. I use ArchLinux and also currently learning NixOS. I've worked with Python, Nix, C#, C++, and some assmebly. 
+
+I also host my repos on [Gitlab](https://gitlab.com/NovaViper) and [Codeberg](https://codeberg.org/NovaViper)!
 
 <!--
 **NovaViper/novaviper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=novaviper&show_icons=true&theme=dracula)](https://github.com/novaviper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novaviper&show_icons=true&theme=dracula&layout=compact&langs_count=10)](https://github.com/novaviper/github-readme-stats)
