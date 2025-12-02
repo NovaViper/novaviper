@@ -23,12 +23,12 @@ Here are some ideas to get you started:
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true&theme=catppuccin_mocha" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true" />
-  <img src="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true" />
+  <img style="height: auto;width: 55%; src="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true" />
   </picture>
   &nbsp;
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&langs_count=8&layout=compact&card_width=500&theme=catppuccin_mocha" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&langs_count=8&layout=compact&card_width=500" />
-  <img src="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&show_icons=true&langs_count=8&layout=compact&card_width=500" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&langs_count=8&layout=compact&theme=catppuccin_mocha" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&langs_count=8&layout=compact" />
+  <img style="height: auto;width: 36%;" src="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&show_icons=true&langs_count=8&layout=compact" />
   </picture>
 </div>
