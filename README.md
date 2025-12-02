@@ -18,5 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=novaviper&show_icons=true&theme=dracula)](https://github.com/novaviper/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novaviper&show_icons=true&theme=dracula&layout=compact&langs_count=10)](https://github.com/novaviper/github-readme-stats)
+
+<div class="container" height="auto">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true&theme=catppuccin_mocha" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true" />
+  <img src="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true" />
+  </picture>
+  &nbsp;
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&langs_count=8&layout=compact&card_width=500&theme=catppuccin_mocha" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&langs_count=8&layout=compact&card_width=500" />
+  <img src="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&show_icons=true&langs_count=8&layout=compact&card_width=500" />
+  </picture>
+</div>
