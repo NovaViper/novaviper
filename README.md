@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="container" height="auto">
+<div class="container" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true&theme=catppuccin_mocha" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true" />
