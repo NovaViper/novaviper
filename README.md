@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-I'm interested in 3D printing, FOSS, PC gaming, and PC Building. I use ArchLinux and also currently learning NixOS. I've worked with Python, Nix, C#, C++, and some assmebly. 
+I'm interested in 3D printing, FOSS, PC gaming, and PC Building. I use ArchLinux and also currently learning NixOS. I've worked with Python, Nix, C#, C++, and some assmebly.
 
 I also host my repos on [Gitlab](https://gitlab.com/NovaViper) and [Codeberg](https://codeberg.org/NovaViper)!
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div class="container" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied-nine-62.vercel.app/api/?username=novaviper&show_icons=true&theme=catppuccin_mocha" />
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
   <img style="height: auto;width: 36%;" src="https://github-readme-stats-pied-nine-62.vercel.app/api/top-langs/?username=novaviper&show_icons=true&langs_count=8&layout=compact" />
   </picture>
 </div>
+-->
