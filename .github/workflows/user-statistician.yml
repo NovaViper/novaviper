@@ -19,6 +19,8 @@ jobs:
       with:
         image-file: images/languages.svg
         hide-keys: general, contributions, repositories
+        custom-title: 'Most Used Languages'
+        animated-language-chart: true
         colors: '#1E1E2E #585B70 #CBA6F7 #CDD6F4 #CBA6F7'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
