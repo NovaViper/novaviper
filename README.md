@@ -6,8 +6,13 @@ I also host my repos on [Gitlab](https://gitlab.com/NovaViper) and [Codeberg](ht
 
 <h2 align="center">📊 Github Stats</h2>
 <div class="container" align="center">
-  <img style="height: auto;width: 50%;" src="images/contribs.svg" />
-  <img style="height: auto;width: 40%;" src="images/languages.svg" />
+  <a href="https://github.com/cicirello/user-statistician">
+    <img style="height: auto;width: 50%;" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/contribs.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cicirello/user-statistician">
+    <img style="height: auto;width: 39%;" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/languages.svg" />
+  </a>
 </div>
 
 <!--
