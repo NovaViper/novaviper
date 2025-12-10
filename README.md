@@ -4,6 +4,12 @@ I'm interested in 3D printing, FOSS, PC gaming, and PC Building. I use ArchLinux
 
 I also host my repos on [Gitlab](https://gitlab.com/NovaViper) and [Codeberg](https://codeberg.org/NovaViper)!
 
+<h2 align="center">📊 Github Stats</h2>
+<div class="container" align="center">
+  <img style="height: auto;width: 50%;" src="images/contribs.svg" />
+  <img style="height: auto;width: 40%;" src="images/languages.svg" />
+</div>
+
 <!--
 **NovaViper/novaviper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
