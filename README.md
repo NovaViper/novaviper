@@ -5,15 +5,24 @@ I'm interested in 3D printing, FOSS, PC gaming, and PC Building. I use ArchLinux
 I also host my repos on [Gitlab](https://gitlab.com/NovaViper) and [Codeberg](https://codeberg.org/NovaViper)!
 
 <h2 align="center">📊 Github Stats</h2>
-<div class="container" align="center">
-  <a href="https://github.com/cicirello/user-statistician">
-    <img style="height: auto;width: 50%;" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/contribs.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/cicirello/user-statistician">
-    <img style="height: auto;width: 39%;" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/languages.svg" />
-  </a>
-</div>
+<!-- =============== DESKTOP =============== -->
+<details open>
+  <summary style="list-style: none;"></summary>
+  <div align="center">
+    <img width="50%" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/contribs.svg" />
+    &nbsp;
+    <img width="39%" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/languages.svg" />
+  </div>
+</details>
+<!-- =============== MOBILE =============== -->
+<details>
+  <summary style="list-style: none;"></summary>
+  <div align="center">
+    <img width="100%" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/contribs.svg" />
+    <br>
+    <img width="100%" src="https://raw.githubusercontent.com/NovaViper/novaviper/main/images/languages.svg" />
+  </div>
+</details>
 
 <!--
 **NovaViper/novaviper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
