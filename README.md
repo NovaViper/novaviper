@@ -2,7 +2,7 @@
 
 I'm interested in 3D printing, FOSS, PC gaming, and PC Building. I use ArchLinux and also currently learning NixOS. I've worked with Python, Nix, C#, C++, and some assmebly.
 
-I also host my repos on [Gitlab](https://gitlab.com/NovaViper) and [Codeberg](https://codeberg.org/NovaViper)!
+My projects will be more active on [Codeberg](https://codeberg.org/NovaViper); while Github will serve as a mirror. I also host my repos on [Gitlab](https://gitlab.com/NovaViper)!
 
 <h2 align="center">📊 Github Stats</h2>
 <!-- =============== DESKTOP =============== -->
