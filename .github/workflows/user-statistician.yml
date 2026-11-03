@@ -12,10 +12,10 @@ jobs:
       contents: write
       
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
 
     - name: Generate the languages distribution
-      uses: cicirello/user-statistician@v1.24.2
+      uses: cicirello/user-statistician@v1.26.3
       with:
         image-file: images/languages.svg
         hide-keys: general, contributions, repositories
@@ -26,7 +26,7 @@ jobs:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
     - name: Generate the contributions stats
-      uses: cicirello/user-statistician@v1.24.2
+      uses: cicirello/user-statistician@v1.26.3
       with:
         image-file: images/contribs.svg
         hide-keys: general, languages, repositories
@@ -35,7 +35,7 @@ jobs:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
     - name: Generate the repositories stats
-      uses: cicirello/user-statistician@v1.24.2
+      uses: cicirello/user-statistician@v1.26.3
       with:
         image-file: images/repos.svg
         hide-keys: general, contributions, languages
